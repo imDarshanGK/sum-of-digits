@@ -15,6 +15,7 @@ Sum of digits= 16
 Example 2:
 Enter a number:984
 Sum of digits= 21
+
 Example 3:
 Enter a number:12
 Sum of digits= 3
